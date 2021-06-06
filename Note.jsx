@@ -10,7 +10,7 @@ function Note() {
         This was an amazing bootcamp 7 Days Free Bootcamp on Basic Web Dev in
         collaboration with Google Developer Groups, Microsoft Learn Student
         Ambassador Program and AWS Students Club conducted by Shaurya Sinha and
-        in this bootcamp everything will be taught from the scratch.
+         We covered everything from the basic including JavaScript,React.js and HTML.
       </p>
     </div>
   );
